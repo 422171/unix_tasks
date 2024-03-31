@@ -1,0 +1,66 @@
+Files in the directory- 
+bsearch.c
+bsearch_obj.o
+dynamic_output.txt
+dynamic.sh
+header.h
+main.c
+main_obj.o
+qsort.c
+qsort_obj.o
+static.a
+static_output.txt
+static.sh
+creating shared library object...
+Files in the directory- 
+bsearch.c
+bsearch_obj.o
+dynamic_output.txt
+dynamic.sh
+dynamic.so
+header.h
+main.c
+main_obj.o
+qsort.c
+qsort_obj.o
+static.a
+static_output.txt
+static.sh
+linking main_obj.o and dynamic.so...
+trying to run the p rogram...
+The array is-
+36 12 19 7 39 71 2 3 4 10 40 
+Element is not present in array
+Sorted array: 
+2 3 4 7 10 12 19 36 39 40 71 
+Program output: 
+The array is-
+36 12 19 7 39 71 2 3 4 10 40 
+Element is not present in array
+Sorted array: 
+2 3 4 7 10 12 19 36 39 40 71 
+Program output: 
+The array is-
+36 12 19 7 39 71 2 3 4 10 40 
+Element is not present in array
+Sorted array: 
+2 3 4 7 10 12 19 36 39 40 71 
+Files in the directory- 
+bsearch.c
+bsearch_obj.o
+dynamic_output.txt
+dynamic.sh
+dynamic.so
+header.h
+main.c
+main_obj.o
+main_res
+qsort.c
+qsort_obj.o
+static.a
+static_output.txt
+static.sh
+	linux-vdso.so.1 (0x00007ffc915ed000)
+	dynamic.so (0x00007f34adb2e000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f34ad923000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007f34adb3a000)
