@@ -1,0 +1,217 @@
+total 304
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 20:51 f1.tar
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 20:40 file.tar
+-rw-r--r-- 1 lahari lahari    138 Mar  5 20:42 file.tar.gz
+-rw-r--r-- 1 lahari lahari    140 Mar  5 20:43 file.tar.tbz
+-rwxr-xr-x 1 lahari lahari     10 Mar  5 20:09 file1.txt
+-rwxr-xr-x 1 lahari lahari     15 Mar  5 20:10 file2.txt
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:52 first.tar
+-rwxr-xr-x 1 lahari lahari     94 Mar  5 20:14 fur.txt
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:21 one.tar
+-rwxr-xr-x 1 lahari lahari    141 Mar  5 20:15 pre.txt
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:52 second.tar
+-rwxrwxrwx 1 lahari lahari   2409 Mar  5 20:03 tar.sh
+-rwxrwxrwx 1 lahari lahari  99724 Mar  3 20:04 team7.webp
+-rw-r--r-- 1 lahari lahari    267 Mar  5 20:50 three.tar.gz
+-rw-r--r-- 1 lahari lahari 112640 Mar  5 21:32 two.tar
+
+compress.cpio
+f1.tar
+file.tar
+file.tar.gz
+file.tar.tbz
+file1.txt
+file2.txt
+first.tar
+fur.txt
+one.tar
+pre.txt
+second.tar
+tar.sh
+team7.webp
+three.tar.gz
+two.tar
+523 blocks
+
+cpio: compress.cpio not created: newer or same age version exists
+compress.cpio
+cpio: f1.tar not created: newer or same age version exists
+f1.tar
+cpio: file.tar not created: newer or same age version exists
+file.tar
+cpio: file.tar.gz not created: newer or same age version exists
+file.tar.gz
+cpio: file.tar.tbz not created: newer or same age version exists
+file.tar.tbz
+cpio: file1.txt not created: newer or same age version exists
+file1.txt
+cpio: file2.txt not created: newer or same age version exists
+file2.txt
+cpio: first.tar not created: newer or same age version exists
+first.tar
+cpio: fur.txt not created: newer or same age version exists
+fur.txt
+cpio: one.tar not created: newer or same age version exists
+one.tar
+cpio: pre.txt not created: newer or same age version exists
+pre.txt
+cpio: second.tar not created: newer or same age version exists
+second.tar
+cpio: tar.sh not created: newer or same age version exists
+tar.sh
+cpio: team7.webp not created: newer or same age version exists
+team7.webp
+cpio: three.tar.gz not created: newer or same age version exists
+three.tar.gz
+cpio: two.tar not created: newer or same age version exists
+two.tar
+523 blocks
+
+compress.cpio
+f1.tar
+file.tar
+file.tar.gz
+file.tar.tbz
+file1.txt
+file2.txt
+first.tar
+fur.txt
+cpio: File new.tar grew, 305664 new bytes not copied
+new.tar
+one.tar
+pre.txt
+second.tar
+tar.sh
+team7.webp
+three.tar.gz
+two.tar
+1665 blocks
+
+total 1404
+-rw-r--r-- 1 lahari lahari 267776 Mar  5 22:04 compress.cpio
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 20:51 f1.tar
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 20:40 file.tar
+-rw-r--r-- 1 lahari lahari    138 Mar  5 20:42 file.tar.gz
+-rw-r--r-- 1 lahari lahari    140 Mar  5 20:43 file.tar.tbz
+-rwxr-xr-x 1 lahari lahari     10 Mar  5 20:09 file1.txt
+-rwxr-xr-x 1 lahari lahari     15 Mar  5 20:10 file2.txt
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:52 first.tar
+-rwxr-xr-x 1 lahari lahari     94 Mar  5 20:14 fur.txt
+-rw-r--r-- 1 lahari lahari 852480 Mar  5 22:07 new.tar
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:21 one.tar
+-rwxr-xr-x 1 lahari lahari    141 Mar  5 20:15 pre.txt
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:52 second.tar
+-rwxrwxrwx 1 lahari lahari   2409 Mar  5 20:03 tar.sh
+-rwxrwxrwx 1 lahari lahari  99724 Mar  3 20:04 team7.webp
+-rw-r--r-- 1 lahari lahari    267 Mar  5 20:50 three.tar.gz
+-rw-r--r-- 1 lahari lahari 112640 Mar  5 21:32 two.tar
+
+compress.cpio
+f1.tar
+file.tar
+file.tar.gz
+file.tar.tbz
+file1.txt
+file2.txt
+first.tar
+fur.txt
+new.tar
+one.tar
+pre.txt
+second.tar
+tar.sh
+team7.webp
+three.tar.gz
+two.tar
+
+cpio: compress.cpio not created: newer or same age version exists
+compress.cpio
+cpio: f1.tar not created: newer or same age version exists
+f1.tar
+cpio: file.tar not created: newer or same age version exists
+file.tar
+cpio: file.tar.gz not created: newer or same age version exists
+file.tar.gz
+cpio: file.tar.tbz not created: newer or same age version exists
+file.tar.tbz
+cpio: file1.txt not created: newer or same age version exists
+file1.txt
+cpio: file2.txt not created: newer or same age version exists
+file2.txt
+cpio: first.tar not created: newer or same age version exists
+first.tar
+cpio: fur.txt not created: newer or same age version exists
+fur.txt
+cpio: new.tar not created: newer or same age version exists
+new.tar
+cpio: one.tar not created: newer or same age version exists
+one.tar
+cpio: pre.txt not created: newer or same age version exists
+pre.txt
+cpio: second.tar not created: newer or same age version exists
+second.tar
+cpio: tar.sh not created: newer or same age version exists
+tar.sh
+cpio: team7.webp not created: newer or same age version exists
+team7.webp
+cpio: three.tar.gz not created: newer or same age version exists
+three.tar.gz
+cpio: two.tar not created: newer or same age version exists
+two.tar
+1664 blocks
+
+./fur.txt
+./pre.txt
+./file1.txt
+./file2.txt
+1 block
+
+total 1144
+-rw-r--r-- 1 lahari lahari    512 Mar  5 22:16 compress.cpio
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 20:51 f1.tar
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 20:40 file.tar
+-rw-r--r-- 1 lahari lahari    138 Mar  5 20:42 file.tar.gz
+-rw-r--r-- 1 lahari lahari    140 Mar  5 20:43 file.tar.tbz
+-rwxr-xr-x 1 lahari lahari     10 Mar  5 20:09 file1.txt
+-rwxr-xr-x 1 lahari lahari     15 Mar  5 20:10 file2.txt
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:52 first.tar
+-rwxr-xr-x 1 lahari lahari     94 Mar  5 20:14 fur.txt
+-rw-r--r-- 1 lahari lahari 852480 Mar  5 22:07 new.tar
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:21 one.tar
+-rwxr-xr-x 1 lahari lahari    141 Mar  5 20:15 pre.txt
+-rw-r--r-- 1 lahari lahari  10240 Mar  5 21:52 second.tar
+-rwxrwxrwx 1 lahari lahari   2409 Mar  5 20:03 tar.sh
+-rwxrwxrwx 1 lahari lahari  99724 Mar  3 20:04 team7.webp
+-rw-r--r-- 1 lahari lahari    267 Mar  5 20:50 three.tar.gz
+-rw-r--r-- 1 lahari lahari 112640 Mar  5 21:32 two.tar
+
+./fur.txt
+./pre.txt
+./file1.txt
+./file2.txt
+10 blocks
+
+./fur.txt
+./pre.txt
+./file1.txt
+./file2.txt
+10 blocks
+
+compress.cpio
+f1.tar
+file.tar
+file.tar.gz
+file.tar.tbz
+file1.txt
+file2.txt
+first.tar
+fur.txt
+new.tar
+one.tar
+pre.txt
+second.tar
+tar.sh
+team7.webp
+three.tar.gz
+two.tar
+1664 blocks

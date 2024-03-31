@@ -1,0 +1,54 @@
+0. contents of the file file1.txt
+Rin
+Obito
+
+0. contents of the file file2.txt
+kakashi
+minato
+
+1. creating Archive of all .txt files in the current directory...
+file1.txt
+file2.txt
+fur.txt
+pre.txt
+2. Extracting files from the Archive...
+file1.txt
+file2.txt
+fur.txt
+pre.txt
+3.creating gzip compressed tar file...
+file1.txt
+4. Extracting files from the Archive...
+file1.txt
+5.creating jzip compressed tar file...
+file1.txt
+creating three archives...
+6.displaying the contents of archives created-
+file1.txt
+file2.txt
+----------
+fur.txt
+pre.txt
+----------
+pre.txt
+file2.txt
+7.updating tar file one.tar...
+fur.txt
+displaying contents of one.tar-
+file1.txt
+file2.txt
+fur.txt
+8.untar one.tar files fur.txt and file1.txt at a time...
+file1.txt
+fur.txt
+9.searching for fur.txt in two.tar
+-rwxr-xr-x lahari/lahari    94 2024-03-05 20:14 fur.txt
+10.searching for pre.txt in three.tar.gz
+-rwxr-xr-x lahari/lahari   141 2024-03-05 20:15 pre.txt
+updating two.tar...
+team7.webp
+11.search for an image in .webp format
+-rwxrwxrwx lahari/lahari 99724 2024-03-03 20:04 team7.webp
+search for all files in .txt format
+-rwxr-xr-x lahari/lahari    94 2024-03-05 20:14 fur.txt
+-rwxr-xr-x lahari/lahari   141 2024-03-05 20:15 pre.txt
