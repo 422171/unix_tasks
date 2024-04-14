@@ -1,0 +1,8 @@
+Using scale to set decimal precision:
+5 divided by 2 is: 2.50
+Using the -l option for math library functions:
+Sine of 0 is: 0
+Using the -q option for quiet output:
+Square root of 16 is: 4
+Using the -i option for specifying input base:
+Hexadecimal F + 1 is: 16

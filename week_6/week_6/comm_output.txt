@@ -1,0 +1,83 @@
+konoha.txt:-
+Hashirama Senju
+Hiruzen sensei
+Kakashi of sharingan
+Madara Uchiha
+Nara Shikamaru
+Naruto Uzumaki
+Tobirama
+Tsunade sama
+
+shinobi.txt:-
+Hiruzen sensei
+Jiraiya
+Madara Uchiha
+Minato Namikaze
+Nara Shikamaru
+Naruto
+Obito Uchiha
+
+1.comparing the two files using comm:-
+Hashirama Senju
+                Hiruzen sensei
+        Jiraiya
+Kakashi of sharingan
+                Madara Uchiha
+        Minato Namikaze
+                Nara Shikamaru
+        Naruto
+Naruto Uzumaki
+        Obito Uchiha
+Tobirama
+Tsunade sama
+
+suppressing 1st column:-
+        Hiruzen sensei
+Jiraiya
+        Madara Uchiha
+Minato Namikaze
+        Nara Shikamaru
+Naruto
+Obito Uchiha
+
+suppressing 2nd column:-
+Hashirama Senju
+        Hiruzen sensei
+Kakashi of sharingan
+        Madara Uchiha
+        Nara Shikamaru
+Naruto Uzumaki
+Tobirama
+Tsunade sama
+
+suppressing 3rd column:-
+Hashirama Senju
+        Jiraiya
+Kakashi of sharingan
+        Minato Namikaze
+        Naruto
+Naruto Uzumaki
+        Obito Uchiha
+Tobirama
+Tsunade sama
+
+suppressing 1,3 columns:-
+Jiraiya
+Minato Namikaze
+Naruto
+Obito Uchiha
+
+Using '!' as delimiter:-
+Hashirama Senju
+!!Hiruzen sensei
+!Jiraiya
+Kakashi of sharingan
+!!Madara Uchiha
+!Minato Namikaze
+!!Nara Shikamaru
+!Naruto
+Naruto Uzumaki
+!Obito Uchiha
+Tobirama
+Tsunade sama
+

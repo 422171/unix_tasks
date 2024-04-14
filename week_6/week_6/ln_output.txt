@@ -1,0 +1,43 @@
+bc.sh  bc_output.txt  comm.sh  comm_output.txt  ftp.bash  ftp.sh  konoha.txt  ln.sh  one.sh  shinobi.txt
+
+Hashirama Senju
+Hiruzen sensei
+Kakashi of sharingan
+Madara Uchiha
+Nara Shikamaru
+Naruto Uzumaki
+Tobirama
+Tsunade sama
+
+Hashirama Senju
+Hiruzen sensei
+Kakashi of sharingan
+Madara Uchiha
+Nara Shikamaru
+Naruto Uzumaki
+Tobirama
+Tsunade sama
+Rin Nohara was once a jinchuriki of 3-tails
+
+Hashirama Senju
+Hiruzen sensei
+Kakashi of sharingan
+Madara Uchiha
+Nara Shikamaru
+Naruto Uzumaki
+Tobirama
+Tsunade sama
+Rin Nohara was once a jinchuriki of 3-tails
+
+total 8
+-rwxrwxrwx 1 lahari lahari  689 Apr  2 00:46 bc.sh
+-rwxrwxrwx 1 lahari lahari  266 Apr  2 19:52 bc_output.txt
+-rwxrwxrwx 1 lahari lahari  509 Apr  2 19:33 comm.sh
+-rwxrwxrwx 1 lahari lahari 1351 Apr  2 19:34 comm_output.txt
+-rwxrwxrwx 1 lahari lahari   32 Apr  4 14:53 ftp.bash
+-rwxrwxrwx 1 lahari lahari  200 Apr  4 14:51 ftp.sh
+-rwxrwxrwx 1 lahari lahari  162 Apr  4 18:09 konoha.txt
+-rwxrwxrwx 1 lahari lahari  202 Apr  4 18:09 ln.sh
+lrwxrwxrwx 1 lahari lahari   10 Apr  4 18:08 ninja.txt -> konoha.txt
+-rwxrwxrwx 1 lahari lahari   38 Apr  4 18:07 one.sh
+-rwxrwxrwx 1 lahari lahari   88 Apr  2 19:13 shinobi.txt
